@@ -1,9 +1,15 @@
 ## ℹ️ About Me:
-👋 Hi, I'm Shivang Sharma.  
+👋 Hi, I'm Shivang Sharma.
+
 👨‍💻 I'm a Competitive Programmer and a Frontend Web Developer.  
+
 👀 I’m interested in Full Stack Development and AIML.  
-⚡ I'm a 2⭐ coder on CodeChef and have solved 100+ questions on LeetCode and GeeksforGeeks.  
+
+⚡ I'm a 2⭐ coder on CodeChef and have solved 100+ questions on LeetCode and GeeksforGeeks. 
+
 📫 Reach me through my email: iamluckysharma99@gmail.com  
+
+
 
 ## 🌐 Socials:
 <p align="center">
@@ -29,9 +35,11 @@
 
 
 
+
 ## My StatsS:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangsharma26&show_icons=true)
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivangsharma26)
+
 
 
 ## Most Used Languages:

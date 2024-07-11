@@ -51,7 +51,7 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## Pinned Repositories:
-- [Repo 1](https://github.com/shivangsharma26/repo1)
-- [Repo 2](https://github.com/shivangsharma26/repo2)
-- [Repo 3](https://github.com/shivangsharma26/repo3)
-- [Repo 4](https://github.com/shivangsharma26/repo4)
+- [Voice Control By Hand gesture recognition](https://github.com/ShivangSharma26/voice-control-by-hand-gesture-recognition/blob/main/README.md)
+- [Spotify Clone](https://github.com/ShivangSharma26/spotify-clone-using-frontend-web-development/blob/main/README.md)
+- [Netflix Clone](https://github.com/ShivangSharma26/Netflix-clone-using-frontend-web-development/blob/main/README.md)
+

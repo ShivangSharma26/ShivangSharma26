@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/itz_shivangg/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://codeforces.com/profile/lucky026">
+
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
   <a href="https://leetcode.com/u/SHIVANG26/">

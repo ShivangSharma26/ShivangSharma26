@@ -162,14 +162,7 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 <img src="https://raw.githubusercontent.com/ShivangSharma26/ShivangSharma26/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
-<!-- 11. QUOTE OF THE DAY -->
 
-<h3 align="left">Quote of the Day:</h3>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<!-- 12. FOOTER -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ShivangSharma26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />

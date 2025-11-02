@@ -141,35 +141,4 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangSharma26&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- 9. FEATURED PROJECTS -->
 
-<h3 align="left">Featured Projects:</h3>
-<div align="center">
-<!-- Update the repo names if they are different! -->
-<a href="https://github.com/ShivangSharma26/CloudPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=CloudPulse&theme=radical" alt="CloudPulse Project" />
-</a>
-<a href="https://github.com/ShivangSharma26/Doctor-Dashboard-and-AI-Prescription-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=Doctor-Dashboard-and-AI-Prescription-Generator&theme=radical" alt="Doctor Dashboard AI" />
-</a>
-</div>
-
-<!-- 10. CONTRIBUTION SNAKE -->
-
-<h3 align="left">My Contribution Snake:</h3>
-<p align="center">
-<!-- This will be 404 until you set up the GitHub Action! -->
-<img src="https://raw.githubusercontent.com/ShivangSharma26/ShivangSharma26/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ShivangSharma26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DB1F63&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>

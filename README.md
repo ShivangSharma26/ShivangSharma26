@@ -57,34 +57,18 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 
 <h2 align="left">My Tech Stack 💻</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql,r" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql" alt="Languages"/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
   <img src="https://skillicons.dev/icons?i=nodejs,flask" alt="Backend"/>
   <br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" alt="AI/ML"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,matplotlib,seaborn,excel" alt="Data Viz"/>
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel" alt="Data Viz"/>
   <br>
     <img src="https://skillicons.dev/icons?i=firebase,redis,mysql,mongodb" alt="Databases"/>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="DevOps"/>
   <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
-
-<h3 align="left">🏆 Achievements:</h3>
-<ul>
-<li>
-🇺🇸 <b>Selected for AI/ML Research @ Iowa State University, USA</b> (1 of 19 Students Selected Worldwide)
-</li>
-<li>
-🇮🇳 <b>Selected for SRIP 2025 @ IIT Gandhinagar</b> (Top 0.25% of 80,000+ applicants)
-</li>
-<li>
-📈 Solved <b>1000+ problems</b> across LeetCode & GitHub
-</li>
-<li>
-💻 <b>1200+ Rating</b> @ Codeforces
-</li>
-</ul>
 
 <h3 align="left">🚀 Featured Projects:</h3>
 <div align="center">
@@ -96,7 +80,25 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 </a>
 </div>
 
-## 🧊 3D Contribution Chart (Green Theme)
+
+
+<h3 align="left">🏆 Achievements:</h3>
+<ul>
+<li>
+🥇 <b>Selected for AI/ML Research @ Iowa State University, USA</b> (1 of 19 Students Selected Worldwide)
+</li>
+<li>
+🏆 <b>Selected for SRIP 2025 @ IIT Gandhinagar</b> (Top 0.25% of 80,000+ applicants)
+</li>
+<li>
+📈 Solved <b>1000+ problems</b> across LeetCode & GitHub
+</li>
+<li>
+💻 <b>1200+ Rating</b> @ Codeforces
+</li>
+</ul>
+
+## 🧊 Contributions
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Chart" width="850"/>
 </p>

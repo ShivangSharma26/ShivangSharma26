@@ -56,41 +56,17 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 </div>
 
 <h2 align="left">My Tech Stack 💻</h2>
-
-### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql,r" />
-</p>
-
-### 💻 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### 🧩 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
-</p>
-
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql,r" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" alt="Backend"/>
+  <br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" alt="AI/ML"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-</p>
-
-### 📊 Data & Visualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,matplotlib,seaborn,excel" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,redis,mysql,mongodb" />
-</p>
-
-### ☁️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,matplotlib,seaborn,excel" alt="Data Viz"/>
+  <br>
+    <img src="https://skillicons.dev/icons?i=firebase,redis,mysql,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="DevOps"/>
   <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
@@ -120,26 +96,9 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 </a>
 </div>
 
-## 🧊 3D Contribution Chart (Dark Mode)
+## 🧊 3D Contribution Chart (Green Theme)
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Chart" width="700"/>
-</p>
-
-> You can swap to another dark-friendly theme later:
-> - `profile-night-view.svg` (default, dark mode)  
-> - `profile-night-green.svg`  
-> - `profile-gitblock.svg`
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivangSharma26&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShivangSharma26&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangSharma26&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Chart" width="850"/>
 </p>
 
 ---

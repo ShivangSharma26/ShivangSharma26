@@ -18,11 +18,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+        with: # <-- ADDED THIS BLOCK
+          contribution_height_scale: 2 # <-- ADDED THIS LINE TO DOUBLE THE HEIGHT
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "chore: generate 3d profile"; then
+          if git commit -m "chore: generate 3d profile (update height)"; then
             git push
           fi

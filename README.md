@@ -41,18 +41,25 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- 5. CONNECT WITH ME (Portfolio link moved to heading) -->
+<h3 align="left">Connect with me:
+  <a href="https://portfolio-pm21c8go8-shivangs-projects-a4e3164b.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/-Portfolio-2E8B57?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
+  </a>
+</h3>
 <div align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/SHIVANG26/" target="blank">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://instagram.com/your-insta-username" target="blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:iamluckysharma99@gmail.com" target="blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="blank"> <!-- <-- UPDATE THIS LINK -->
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/SHIVANG26/" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://instagram.com/your-insta-username" target="blank"> <!-- <-- UPDATE THIS LINK -->
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:iamluckysharma99@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <h2 align="left">My Tech Stack 💻</h2>

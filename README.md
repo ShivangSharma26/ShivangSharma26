@@ -14,6 +14,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ShivangSharma26&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+---
+
 <p align="center">
 I'm an AI/ML developer from India, selected as <b>1 of 19 students worldwide</b> for AI/ML Research at Iowa State University.
 <br />
@@ -53,87 +55,93 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 </a>
 </div>
 
-<h3 align="left">My Tech Stack:</h3>
+<h2 align="left">My Tech Stack 💻</h2>
 
+### Languages
 <p align="left">
-<b>Languages:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql,r" />
 </p>
 
+### 💻 Frontend
 <p align="left">
-<b>Frontend:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
+### 🧩 Backend
 <p align="left">
-<b>Backend:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
 </p>
 
+### 🤖 AI / ML
 <p align="left">
-<b>AI / ML:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
 
+### 📊 Data & Visualization
 <p align="left">
-<b>DevOps & Cloud:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,redis" />
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,matplotlib,seaborn,excel" />
 </p>
 
+### 🗄️ Databases
 <p align="left">
-<b>Tools:</b>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github" />
-<img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=firebase,redis,mysql,mongodb" />
+</p>
+
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
 <h3 align="left">🏆 Achievements:</h3>
 <ul>
 <li>
-<b>Selected for AI/ML Research @ Iowa State University, USA</b> (1 of 19 Students Selected Worldwide)
+🇺🇸 <b>Selected for AI/ML Research @ Iowa State University, USA</b> (1 of 19 Students Selected Worldwide)
 </li>
 <li>
-<b>Selected for SRIP 2025 @ IIT Gandhinagar</b> (Top 0.25% of 80,000+ applicants)
+🇮🇳 <b>Selected for SRIP 2025 @ IIT Gandhinagar</b> (Top 0.25% of 80,000+ applicants)
 </li>
 <li>
-Solved <b>1000+ problems</b> across LeetCode & GitHub
+📈 Solved <b>1000+ problems</b> across LeetCode & GitHub
 </li>
 <li>
-<b>1200+ Rating</b> @ Codeforces
+💻 <b>1200+ Rating</b> @ Codeforces
 </li>
 </ul>
 
 <h3 align="left">🚀 Featured Projects:</h3>
 <div align="center">
 <a href="https://github.com/ShivangSharma26/CloudPulse---AWS-Deployment-Service">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=CloudPulse---AWS-Deployment-Service&theme=radical&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="CloudPulse Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=CloudPulse---AWS-Deployment-Service&theme=radical&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&description_lines_count=2" alt="CloudPulse Project" />
 </a>
 <a href="https://github.com/ShivangSharma26/doctor-clinic-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=doctor-clinic-app&theme=radical&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="Doctor Dashboard Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivangSharma26&repo=doctor-clinic-app&theme=radical&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&description_lines_count=2" alt="Doctor Dashboard Project" />
 </a>
 </div>
 
-<h3 align="left">My GitHub Stats:</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivangSharma26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangSharma26&theme=radical&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangSharma26&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+## 🧊 3D Contribution Chart (Dark Mode)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Chart" width="700"/>
+</p>
 
-<h3 align="left">My Activity Graph:</h3>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangSharma26&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
+> You can swap to another dark-friendly theme later:
+> - `profile-night-view.svg` (default, dark mode)  
+> - `profile-night-green.svg`  
+> - `profile-gitblock.svg`
 
-<h3 align="left">My Contribution Snake:</h3>
-<div align="center">
-<img src="https://github.com/ShivangSharma26/ShivangSharma26/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivangSharma26&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShivangSharma26&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangSharma26&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">🖤 Built with passion by <b>Shivang Sharma</b></p>

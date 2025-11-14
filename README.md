@@ -98,7 +98,7 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 🏆 <b>Selected for SRIP 2025 @ IIT Gandhinagar</b> (Top 0.25% of 80,000+ applicants)
 </li>
 <li>
-📈 Solved <b>1000+ problems</b> across LeetCode & GitHub
+📈 Solved <b>1000+ problems</b> across LeetCode & GFG
 </li>
 <li>
 💻 <b>1200+ Rating</b> @ Codeforces

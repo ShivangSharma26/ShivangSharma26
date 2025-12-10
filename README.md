@@ -43,7 +43,7 @@ I thrive on building complex systems, from RAG architectures with LangChain to f
 
 <!-- 5. CONNECT WITH ME (Portfolio link moved to heading) -->
 <h3 align="left">Connect with me:
-  <a href="https://portfolio-pm21c8go8-shivangs-projects-a4e3164b.vercel.app/" target="blank">
+  <a href="https://portfolio-356y4crzy-shivangs-projects-a4e3164b.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/-Portfolio-2E8B57?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
   </a>
 </h3>

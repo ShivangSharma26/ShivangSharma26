@@ -2,7 +2,7 @@
 <img src="https://placehold.co/1200x300/2E8B57/FFFFFF?text=Hey!+I+am+Shivang+Sharma\n\nAI/ML+Engineer+%26+Developer&font=inter" alt="Hi, I'm Shivang Sharma, AI/ML Engineer & Developer"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivang Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shivang Sharma </h1>
 <h3 align="center">AI/ML Engineer | Backend Developer | Data Scientist</h3>
 
 <p align="center">
